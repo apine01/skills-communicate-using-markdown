@@ -10,3 +10,6 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Eat breakfast
+- [x] Turn on pool filter
+- [ ] Unga Bunga
